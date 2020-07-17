@@ -34,3 +34,7 @@ The project uses：
 
 # Note
 The Project is still under Development.
+
+# Important Notice
+We had to delete the original repository due to some configuration issues. I request you to delete this repository and fork again from the original repository https://github.com/prabinrath/Roborex_Chess. 
+From - Neelam Mahapatro, Co-owner and Collaborator of the repository.
